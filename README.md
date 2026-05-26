@@ -109,3 +109,6 @@ Inspired by Claude Code: an attempt to identify what makes it general-purpose, a
 ## Security
 
 Deep Agents follows a "trust the LLM" model. The agent can do anything its tools allow. Enforce boundaries at the tool/sandbox level, not by expecting the model to self-police. See the [security policy](https://github.com/langchain-ai/deepagents?tab=security-ov-file) for more information.
+
+## Contributing
+PRs welcome!
