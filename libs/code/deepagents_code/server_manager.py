@@ -143,7 +143,7 @@ async def create_checkpointer():
     """Yield an AsyncSqliteSaver connected to the app's sessions DB.
 
     The database path is read from the `{db_path_var}` env var
-    (set by the the app before server startup) rather than hard-coded, so
+    (set by the app before server startup) rather than hard-coded, so
     the checkpointer module works without code generation.
     """
     from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
