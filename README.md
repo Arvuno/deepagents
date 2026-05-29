@@ -112,3 +112,6 @@ Deep Agents follows a "trust the LLM" model. The agent can do anything its tools
 
 ## Contributing
 PRs welcome!
+
+<!-- Contributor: Arvuno - documentation update -->
+
